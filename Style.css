@@ -1,0 +1,29 @@
+body {
+	background-image : url("Background2.jpg");
+}
+h1{color: #FFFF00;
+font-size:50px;
+background :
+text-align: right;
+background-image:url(Logo_eic.png);
+background-repeat:no-repeat;
+background-position: right;
+}
+h2 { color : #FFFF00 ;
+font-size: 30px;
+}
+p {
+	color : #000000 ;
+	background : #FFFF00;
+	border : #0000aa solid 1px;
+	font-size : 18px;
+}
+ul{ color : #523094;
+font-size : 18px;
+}
+img {
+	width : 500px;
+	height : 300px;
+}
+h3 { color : #FFFF00
+}
