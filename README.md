@@ -1,5 +1,5 @@
 #What?
-This is a site referencing knowlege about Star Wars.
+This is a site referencing knowledge about Star Wars.
 #Why?
 This is a middle school html project.
 #Who?
